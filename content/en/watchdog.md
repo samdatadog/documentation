@@ -52,7 +52,7 @@ Selecting *Show expected bounds* in the upper-right corner reveals upper and low
 
 Use the folder icon in the upper-right corner of a story to archive it. Archiving hides the story from the feed, as well as other places in the Datadog application, like the home page. If a story is archived, the yellow Watchdog binoculars icon does not show up next to the relevant service or resource.
 
-To see archived stories, select the checkbox option to "Show N archived stories" in the top left. You can also see who archived each story and when, and restore archived stories to your feed.
+To see archived stories, select the checkbox option to "Show N archived stories" in the top left. You can also see who archived each story and when, and restore archived stories to your feed. 
 
 **Note**: Archiving does not prevent Watchdog from flagging future issues related to the service or resource.
 
